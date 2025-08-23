@@ -34,4 +34,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py MCPE n2.host.ringonw.com:3150 2000 36000
+      run: python3 start.py MINECRAFT n2.host.ringonw.com:3150 2000 36000
