@@ -34,4 +34,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py MCPE stellamc.jp:6911 2000 36000
+      run: python3 start.py FIVEM 162.222.17.13:30120 2000 36000
